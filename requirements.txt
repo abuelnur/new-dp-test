@@ -5,4 +5,4 @@ lxml==4.6.0
 Flask==0.12.2
 ipaddress==1.0.18
 python-docx==0.8.5
-SQLAlchemy==1.1.11
+SQLAlchemy==1.4.45
