@@ -42,6 +42,6 @@
     "postcss": "7.0.30",
     "postcss-rtl": "^1.7.3",
     "typescript": "^3.9.3",
-    "@justeat/fozzie": "1.38.0"
+    "@justeat/fozzie": "1.90.0"
   }
 }
